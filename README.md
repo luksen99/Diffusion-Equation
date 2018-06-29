@@ -8,8 +8,12 @@ In this Project we are solving the heat diffusion equation of the form:
 
 ## Two Folders:
 * 1) Descriptive \.ipynb files. To give a descriptive overview  of the problem and show intermediate results via Jupyter sessions
+
+      *Recommeded to look at, for people being rather new to the project*
+ 
 * 2) \.py files containing code to comment, modify and work on
 
+     *Recommeded to look at, for people working on- and contributing to the code*
 
 
 
