@@ -1,7 +1,7 @@
 # Diffusion-Equation
 In this Project we are trying to solve the heat diffusion equation of the form: 
 
- $\alpha$
+ $$\alpha$$
 
   $\frac{\delta \phi}{\delta t} = \frack{\delta}{\delta x}\left(k(\phi)\frac{\delta}{\delta x}\phi\right)$
  
