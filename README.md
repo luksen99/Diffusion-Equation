@@ -17,6 +17,10 @@ In this Project we are providing a slover for Parabolic Partial Differential Equ
      
 * 3) A report as a guide through the theoretical background of the code  
 
+### How to contribute: 
+Fork from the `Developer`- branch and pull request to merge back into the original `Developer`- branch. 
+Working updates and imrpvements will then be merged into the `Master` branch, which will always contain the latest working version.
+
 
 
 With: 
