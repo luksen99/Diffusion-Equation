@@ -7,7 +7,8 @@ In this Project we are providing a slover for Parabolic Partial Differential Equ
  Our approach is to use a combination of **finite elements** (B-Splines) to approximate the derivation in space and **explicit Euler** to approximate the evolution in time.
  
  
- ![ALT TEXT](https://giphy.com/gifs/7TudjuaMsW2HP2xQ9Y/giphy.gif)
+ ![ALT TEXT](https://media.giphy.com/media/7TudjuaMsW2HP2xQ9Y/giphy.gif )
+ <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 ## Folders:
 * 1) Descriptive \.ipynb files. To give a descriptive overview  of the problem and show intermediate results via Jupyter sessions
