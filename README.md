@@ -10,7 +10,7 @@ In this Project we are providing a slover for Parabolic Partial Differential Equ
 :-------------------------:|:-------------------------:
  <img src="https://media.giphy.com/media/7TudjuaMsW2HP2xQ9Y/giphy.gif" width="320" height="300" />  |  <img src="https://github.com/luksen99/Diffusion-Equation/blob/master/Images/LaserPulse.png" width="320" height="300" />
  
- Here we consider a gaussian pulsed laser source S(x,t) = exp(x)*G(t) hitting a probe in the middle. The probe gets heated up, as the pulse kicks in and the heat diffuses along the material until equilibrium is reached.
+ Here we consider a gaussian pulsed laser source S(x,t) = exp(-x)*G(t) hitting a probe in the middle. The probe gets heated up, as the pulse kicks in and the heat diffuses along the material until equilibrium is reached.
 
 
  
