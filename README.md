@@ -6,9 +6,15 @@ In this Project we are providing a slover for Parabolic Partial Differential Equ
  
  Our approach is to use a combination of **finite elements** (B-Splines) to approximate the derivation in space and **explicit Euler** to approximate the evolution in time.
  
+  Temperature evolution of probe |  Gaussian laser pulse S(x,t) hitting probe
+:-------------------------:|:-------------------------:
+ <img src="https://media.giphy.com/media/7TudjuaMsW2HP2xQ9Y/giphy.gif" width="320" height="300" />  |  <img src="https://github.com/luksen99/Diffusion-Equation/blob/master/Images/LaserPulse.png" width="320" height="300" />
  
- ![ALT TEXT](https://media.giphy.com/media/7TudjuaMsW2HP2xQ9Y/giphy.gif )
- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+ Here we consider a gaussian pulsed laser source S(x,t) = exp(x)*G(t) hitting a probe in the middle. The probe gets heated up, as the pulse kicks in and the heat diffuses along the material until equilibrium is reached.
+
+
+ 
+ 
 
 ## Folders:
 * 1) Descriptive \.ipynb files. To give a descriptive overview  of the problem and show intermediate results via Jupyter sessions
