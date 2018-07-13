@@ -23,7 +23,7 @@ In this Project we are providing a slover for Parabolic Partial Differential Equ
 * 1) Documentation 
       
       
-* 2) Examples \.ipynb files. To give a descriptive overview  of what can be solved with the package
+* 2) Descriptive \.ipynb files. To give a descriptive overview  of what can be solved with the package
 
  
 * 3) Code \.py files containing code to comment, modify and work on
